@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E7BE55-67A1-47DB-A1DF-1996452E6D09}|Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.vcxproj|C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83E7BE55-67A1-47DB-A1DF-1996452E6D09}|Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.vcxproj|solutionrelative:Bai_009_Class_DaThuc\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E7BE55-67A1-47DB-A1DF-1996452E6D09}|Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.vcxproj|C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83E7BE55-67A1-47DB-A1DF-1996452E6D09}|Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.vcxproj|solutionrelative:Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E7BE55-67A1-47DB-A1DF-1996452E6D09}|Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.vcxproj|C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83E7BE55-67A1-47DB-A1DF-1996452E6D09}|Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.vcxproj|solutionrelative:Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai_009_Class_DaThuc.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.cpp",
+              "RelativeDocumentMoniker": "Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.cpp",
+              "RelativeToolTip": "Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.cpp",
+              "ViewState": "AgIAADQAAAAAAAAAAAAiwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T13:37:58.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai_009_Class_DaThuc.h",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.h",
+              "RelativeDocumentMoniker": "Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.h",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.h",
+              "RelativeToolTip": "Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc.h",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-01T13:33:40.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\main.cpp",
+              "RelativeDocumentMoniker": "Bai_009_Class_DaThuc\\main.cpp",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\ANHNHUTOOP\\Bai_009_Class_DaThuc\\Bai_009_Class_DaThuc\\main.cpp",
+              "RelativeToolTip": "Bai_009_Class_DaThuc\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T13:33:13.633Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

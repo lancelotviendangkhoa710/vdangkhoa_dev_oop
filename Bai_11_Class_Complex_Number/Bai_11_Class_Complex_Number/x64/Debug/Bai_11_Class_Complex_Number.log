@@ -1,0 +1,5 @@
+﻿  Bai_11_Class_Complex_Number.cpp
+C:\Users\Admin\Desktop\ANHNHUTOOP\Bai_11_Class_Complex_Number\Bai_11_Class_Complex_Number\Bai_11_Class_Complex_Number.cpp(62,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  Bai_11_Class_Complex_Number.vcxproj -> C:\Users\Admin\Desktop\ANHNHUTOOP\Bai_11_Class_Complex_Number\x64\Debug\Bai_11_Class_Complex_Number.exe
